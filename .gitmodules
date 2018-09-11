@@ -1,6 +1,3 @@
-[submodule "trie"]
-	path = trie
-	url = https://github.com/acwilson96/trie.git
 [submodule "bin_tree"]
 	path = bin_tree
 	url = https://github.com/acwilson96/bin_tree.git
