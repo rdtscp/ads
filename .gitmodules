@@ -1,0 +1,3 @@
+[submodule "Trie"]
+	path = Trie
+	url = https://github.com/acwilson96/Trie.git
