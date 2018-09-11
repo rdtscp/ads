@@ -4,6 +4,8 @@
 
 
 Advanced Data Structures - Data Structures not provided in C++ STL Library.
+  * Trie
+  * Binary Tree (Coming Soon)
 
 # Download
 ```
