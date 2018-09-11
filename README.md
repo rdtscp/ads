@@ -1,4 +1,8 @@
 # ads
+[![Build Status](https://travis-ci.com/acwilson96/ads.svg?branch=master)](https://travis-ci.com/acwilson96/ads)
+![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
+
+
 Advanced Data Structures - Data Structures not provided in C++ STL Library.
 
 # Download
