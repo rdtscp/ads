@@ -8,7 +8,7 @@ Advanced Data Structures - Data Structures not provided in C++ STL Library.
 # Download
 ```
 git clone https://github.com/acwilson96/ads
-cd Trie
+cd ads
 ```
 The following should be run from within the "ads" directory.
 # Release Install
