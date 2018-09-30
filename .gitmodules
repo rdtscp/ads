@@ -4,3 +4,6 @@
 [submodule "trie"]
 	path = trie
 	url = https://github.com/acwilson96/trie.git
+[submodule "bloom_filter"]
+	path = bloom_filter
+	url = https://github.com/acwilson96/bloom_filter.git
