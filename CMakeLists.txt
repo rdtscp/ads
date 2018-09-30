@@ -7,6 +7,7 @@ IF(CMAKE_BUILD_TYPE MATCHES Release)
   message(" --- Building in Release Mode ---")
   
   add_subdirectory(bin_tree)
+  add_subdirectory(bloom_filter)
   add_subdirectory(trie)
 
 ENDIF(CMAKE_BUILD_TYPE MATCHES Release)
@@ -48,6 +49,8 @@ IF(CMAKE_BUILD_TYPE MATCHES Debug)
   set(GTEST_INSTALLED TRUE)
 
   add_subdirectory(bin_tree)
+  add_subdirectory(bloom_filter)
   add_subdirectory(trie)
+
   enable_testing()
 ENDIF(CMAKE_BUILD_TYPE MATCHES Debug)
