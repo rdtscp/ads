@@ -5,8 +5,8 @@
 
 Advanced Data Structures - Data Structures not provided in C++ STL Library.
   * [Trie](https://github.com/acwilson96/trie)
-  * [Binary Tree](https://github.com/acwilson96/bin_tree) (WIP)
-  * [Bloom Filter](https://github.com/acwilson96/bloom_filter) (WIP)
+  * [Binary Tree](https://github.com/acwilson96/bin_tree)
+  * [Bloom Filter](https://github.com/acwilson96/bloom_filter)
 
 # Download
 ```
