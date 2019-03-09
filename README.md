@@ -19,9 +19,10 @@ Advanced Data Structures - Data Structures not provided in C++ STL Library.
 -   [trie.h](https://github.com/acwilson96/trie/blob/master/include/trie.h)
 -   [bin_tree.h](https://github.com/acwilson96/bin_tree/blob/master/include/bin_tree.h)
 -   [bloom_filter.h](https://github.com/acwilson96/bloom_filter/blob/master/include/bloom_filter.h)
-    # Release Install
-    Install all libraries provided in ads.
 
+## Release Install
+
+Install all libraries provided in ads.
 
     mkdir build
     cd build
