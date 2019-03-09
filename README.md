@@ -1,5 +1,6 @@
 # ads
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/412c6de9ae594a45a74c72009bac0b48)](https://app.codacy.com/app/rdtscp/ads?utm_source=github.com&utm_medium=referral&utm_content=rdtscp/ads&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.com/rdtscp/ads.svg?branch=master)](https://travis-ci.com/rdtscp/ads)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
