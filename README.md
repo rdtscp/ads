@@ -9,12 +9,12 @@ Advanced Data Structures - Data Structures not provided in C++ STL Library.
 -   [Binary Tree](https://github.com/acwilson96/bin_tree)
 -   [Bloom Filter](https://github.com/acwilson96/bloom_filter)
 
-# Download
+## Download
 
     git clone https://github.com/acwilson96/ads
     cd ads
 
-# Usage
+## Usage
 
 -   [trie.h](https://github.com/acwilson96/trie/blob/master/include/trie.h)
 -   [bin_tree.h](https://github.com/acwilson96/bin_tree/blob/master/include/bin_tree.h)
@@ -30,7 +30,7 @@ Advanced Data Structures - Data Structures not provided in C++ STL Library.
     make install
     cd ..
 
-# Debug Install & Run Unit Tests
+## Debug Install & Run Unit Tests
 
     mkdir build
     cd build
@@ -40,7 +40,7 @@ Advanced Data Structures - Data Structures not provided in C++ STL Library.
     ctest -V
     cd ..
 
-# Uninstall
+## Uninstall
 
     cd build
     xargs rm < install_manifest.txt
