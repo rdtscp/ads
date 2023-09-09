@@ -7,3 +7,6 @@
 [submodule "bloom_filter"]
 	path = bloom_filter
 	url = https://github.com/acwilson96/bloom_filter.git
+[submodule "lru_cache"]
+	path = lru_cache
+	url = https://github.com/rdtscp/lru_cache.git
